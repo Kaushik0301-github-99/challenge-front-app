@@ -7,4 +7,4 @@ function ChallengeComponent({challenge}) {
     );
  }
  
- export default ChallengeComponent;
+ export  default ChallengeComponent;
